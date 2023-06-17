@@ -1,0 +1,14 @@
+{
+  "path": {
+    "video": {
+      "save_dir": "./data/video/xfdwj",
+      "cookies_path": ""
+    },
+    "audio": {
+      "save_path": "./data/audio/xfdwj"
+    },
+    "json": {
+      "save_path": "./data/json"
+    }
+  }
+}
